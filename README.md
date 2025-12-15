@@ -1,4 +1,4 @@
-**[English Version | Versión en Inglés](./README_EN.md)**
+**[English Version | Versión en Inglés](./README-EN.md)**
 
 # Desafío Técnico: Dashboard de Cambio de Divisas (Next.js)
 Esta aplicación web implementa un conversor de divisas y un dashboard de tasas de cambio utilizando Next.js 14 (App Router), TypeScript, Tailwind CSS y la API pública Frankfurter.
