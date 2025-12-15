@@ -1,4 +1,4 @@
-**[Spanish Version | Versión en Español](./README.md)**
+**[Spanish Version - Versión en Español](./README.md)**
 
 # Technical Challenge: Currency Exchange Dashboard (Next.js)
 This web application implements a currency converter and exchange rates dashboard using Next.js 14 (App Router), TypeScript, Tailwind CSS, and the public Frankfurter API.
@@ -23,7 +23,7 @@ npm install
 npm run dev
 ```
 
-4. Open [http://localhost:3000](https://www.google.com/search?q=http://localhost:3000) in the browser.
+4. Open http://localhost:3000 in the browser.
 
 ## Bonus Feature: Transfer Cost Simulator
 This function allows the user to simulate the impact of a percentage commission or a fixed charge applied to the amount of money to be transferred, which is common in companies that transfer money abroad, thus maintaining the focus on the user by offering transparency and trust.
